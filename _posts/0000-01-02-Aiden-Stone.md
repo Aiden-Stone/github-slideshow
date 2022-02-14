@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Mobile is the future and the future is already here" -asimo3089
+"I'm supposed to do something, so I'm just doing this" -Aiden
 Use the left arrow to go back!
